@@ -24,6 +24,9 @@ sound sensor, particle sensor, UV sensor, and soil moisture sensor. In addtion, 
 clock and SD card can be attached to support long term data collection.
 
 #### Magnetometer
+The magnetometer can measure magnetic force in three directions (x,y,z) and calculate
+the strength of the magetnic field. When you use the magnetometer block, the micro:bit
+will prompt you the calibrate the magnetometer before taking values.
 tutorials
 * Display
 
