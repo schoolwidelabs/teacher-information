@@ -1,31 +1,35 @@
 
-> Open this page at [https://schoolwidelabs.github.io/teacher-information/](https://schoolwidelabs.github.io/teacher-information/)
 
-## Use as Extension
+## Getting Started
+This page presents an overview of the technology used in SchoolWide Labs and provides
+links to additonal information and tutorials.
 
-This repository can be added as an **extension** in MakeCode.
+### Micro:bit
+The micro:bit is a microcontroller created by the BBC for use in K-12 Education. 
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/schoolwidelabs/teacher-information** and import
+### Gator:bit
+The gator:bit created by [SparkFun Electronics](https://www.sparkfun.com/) makes it easy to access additional pins on the micro:bit as well as provide 
+some simple options for displaying information using lights (5 neopixel LEDs controlled
+by Pin 12) and sound (piezo speaker controlled by Pin 0). For more information on the
+the gator:bit along with some examples see the [hookup guide](https://learn.sparkfun.com/tutorials/sparkfun-gatorbit-v2-hookup-guide).
 
-## Edit this project ![Build status badge](https://github.com/schoolwidelabs/teacher-information/workflows/MakeCode/badge.svg)
+### Sensors
+The micro:bit comes with some onboard sensors including a magnetometer and accelerometer.
+In addition the micro:bit has a light sensor and temperature sensor, but those are not 
+sufficiently accurate for use in scientific inquiry. To better support scientific inquiry,
+SparkFun developed a set of sensors that can be attached to the micro:bit and/or gator:bit.
+These sensors include a temperature sensor, a light sensor, an environmental
+sensors (measures temperature, humidity, carbon dioxide, and total volatile organic compounds),
+sound sensor, particle sensor, UV sensor, and soil moisture sensor. In addtion, a real time
+clock and SD card can be attached to support long term data collection.
 
-To edit this repository in MakeCode.
+#### Magnetometer
+tutorials
+* Display
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/schoolwidelabs/teacher-information** and click import
+#### Environmental Sensor
 
-## Blocks preview
+#### Sound Sensor
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
+#### Soil Moisture Sensor
 
-![A rendered view of the blocks](https://github.com/schoolwidelabs/teacher-information/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
