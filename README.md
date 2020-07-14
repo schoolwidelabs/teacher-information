@@ -2,10 +2,16 @@
 
 ## Getting Started
 This page presents an overview of the technology used in SchoolWide Labs and provides
-links to additonal information and tutorials.
+links to additonal information and tutorials. It also walks you through a series of exercises that will help you get started.
 
 ### Micro:bit
-The micro:bit is a microcontroller created by the BBC for use in K-12 Education. 
+The micro:bit is a microcontroller created by the BBC for use in K-12 Education. It can be programmed using a variety of block and text based programming
+languages. For the SchoolWide Labs project, we use MakeCode which is a block based programming language that also allows students to program in javascript and python as they become more advanced. Below is a suggested series of exercises to familiarize yourself with the micro:bit. Complete these exercises before moving on to the Gator:bit and sensors.
+
+1. Go to [Makecode](https://makecode.microbit.org/)
+2. Complete the Blinking Heart tutorial
+3. Complete one additional tutorial
+4. Complete one of the Games (e.g. Rock, Paper, Scissor or Hot Potato). 
 
 ### Gator:bit
 The gator:bit created by [SparkFun Electronics](https://www.sparkfun.com/) makes it easy to access additional pins on the micro:bit as well as provide 
