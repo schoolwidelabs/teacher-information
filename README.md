@@ -45,7 +45,7 @@ The Environmental Sensor can measure temperature, humidity, barometric pressure,
 
 [This link](https://makecode.microbit.org/_0iaJP1Cj0hYr) is an example program that displays the temperature and humidity on the micro:bit. Wire the sensor using the wiring diagram below and test it out.
 
-![Environmental Sensor Wiring Diagram](images/Environmental.jpeg)
+![Environmental Sensor Wiring Diagram](images/Environmental.jpeg)<!-- .element height="75%" -->
 
 #### Sound Sensor
 The Sound Sensor measures the presence or absence of sound as well as the intensity of the sound. The [hookup guide](https://learn.sparkfun.com/tutorials/sparkfun-gatormicrophone-hookup-guide/all) from SparkFun contains more information.
