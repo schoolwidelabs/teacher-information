@@ -2,7 +2,7 @@
 
 ## Getting Started
 This page presents an overview of the technology used in SchoolWide Labs and provides
-links to additonal information and tutorials. It also walks you through a series of exercises that will help you get started. I recommend **using Chrome** to complete these exercies. Safari works okay. **Do not use Firefox**, the sensor blocks will not load correctly.
+links to additonal information and tutorials. It also walks you through a series of exercises that will help you get started. I recommend **using Chrome** to complete these exercies. Safari works okay. **Do not use Firefox**, the sensor blocks will not load correctly. Write any questions (or look for answers) in this [Google Doc](https://docs.google.com/document/d/1OVhNkiMKEFcYqHRsjmkGkoWmBvXISqcgfKz2HhCQdI4/edit?usp=sharing). 
 
 ### Micro:bit
 The micro:bit is a microcontroller created by the BBC for use in K-12 Education. It can be programmed using a variety of block and text based programming
