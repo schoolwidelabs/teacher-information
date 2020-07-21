@@ -43,21 +43,21 @@ the more section under the Input blocks on MakeCode.
 #### Environmental Sensor
 The Environmental Sensor can measure temperature, humidity, barometric pressure, carbon dioxide, and total volatile organic compounds. The [hookup guide](https://learn.sparkfun.com/tutorials/sparkfun-gatorenvironment-hookup-guide/all) from SparkFun contains more information.
 
-[This](https://makecode.microbit.org/_0iaJP1Cj0hYr) is an example program that displays the temperature and humidity on the micro:bit. Wire the sensor using the wiring diagram below and test it out.
+[This link](https://makecode.microbit.org/_0iaJP1Cj0hYr) is an example program that displays the temperature and humidity on the micro:bit. Wire the sensor using the wiring diagram below and test it out.
 
 ![Environmental Sensor Wiring Diagram](images/Environmental.jpeg)
 
 #### Sound Sensor
 The Sound Sensor measures the presence or absence of sound as well as the intensity of the sound. The [hookup guide](https://learn.sparkfun.com/tutorials/sparkfun-gatormicrophone-hookup-guide/all) from SparkFun contains more information.
 
-[This](https://makecode.microbit.org/_P9ib4EdpTaJm) is an example program that displays the sound intensity using the LEDs on the micro:bit. Wire the sensor using the wiring diagram below and test it out.
+[This link](https://makecode.microbit.org/_P9ib4EdpTaJm) is an example program that displays the sound intensity using the LEDs on the micro:bit. Wire the sensor using the wiring diagram below and test it out.
 
-![Sound Sensor Wiring Diagram]
+![Sound Sensor Wiring Diagram](images/Sound.jpeg)
 
 #### Soil Moisture Sensor
 The Soil Moisture Sensor measures how moist the soil is. The sensor returns a value between 0 and 1 depending on the moistness with values close to 0 very dry and values close 1 very moist. The sensor does need to be calibrated in the soil you plan to use because things like compactness and and soil composition can influence the readings. The [hookup guide](https://learn.sparkfun.com/tutorials/sparkfun-gatorsoil-hookup-guide/all) from SparkFun contains more information.
 
-[This](https://makecode.microbit.org/_26bP10Jb0EYH) is an example program that displays the soil moisture as a percentage on the micro:bit. Wire the sensor using the wiring diagram below and test it out.
+[This link](https://makecode.microbit.org/_26bP10Jb0EYH) is an example program that displays the soil moisture as a percentage on the micro:bit. Wire the sensor using the wiring diagram below and test it out.
 
-![Soil Moisture Sensor Wiring Diagram]
+![Soil Moisture Sensor Wiring Diagram](images/Soil.jpeg)
 
