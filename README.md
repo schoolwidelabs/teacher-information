@@ -13,6 +13,13 @@ languages. For the SchoolWide Labs project, we use MakeCode which is a block bas
 3. Complete one additional tutorial
 4. Complete one of the Games (e.g. Rock, Paper, Scissor or Hot Potato). 
 
+#### Workshop tutorials
+1. [Basic Radio Communication](https://makecode.microbit.org/#tutorial:github:schoolwidelabs/teacher-information/radio_tutorial_basic)
+2. [Sending Messages over Radio]()
+3. Neopixels
+4. Music
+
+
 ### Gator:bit
 The gator:bit created by [SparkFun Electronics](https://www.sparkfun.com/) makes it easy to access additional pins on the micro:bit as well as provide 
 some simple options for displaying information using lights (5 neopixel LEDs controlled

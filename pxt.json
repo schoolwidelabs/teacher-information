@@ -9,7 +9,9 @@
     "files": [
         "README.md",
         "main.blocks",
-        "main.ts"
+        "main.ts",
+        "radio_tutorial_basic.md",
+        "radio_tutorial_messages.md"
     ],
     "testFiles": [
         "test.ts"
