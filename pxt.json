@@ -10,7 +10,8 @@
         "README.md",
         "main.blocks",
         "main.ts",
-        "basic_radio_tutorial.md"
+        "basic_radio_tutorial.md",
+        "sending_messages.md"
     ],
     "testFiles": [
         "test.ts"
